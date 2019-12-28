@@ -1,0 +1,31 @@
+*{
+	margin:0px;
+
+}
+
+body{
+	width: 650px;
+	height: 0 auto;
+}
+h1{
+	text-align:center;
+}
+#boton{
+	background-color:red;
+	color:#fff;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bolder;
+	padding: 3px;
+	border:solid 2px black;
+}
+#boton:hover{
+	background-color: lightcoral;
+	font-size: 22px;
+	border:groove 4px red;
+}
+#pantalla{
+	border:groove  8px goid;
+	background:;
+	
+}
